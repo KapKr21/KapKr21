@@ -1,4 +1,4 @@
-### Hi, I'm Kapil
+### Hi, I'm Kapil Kumar
 
 Technical Lead cum Senior iOS Developer (Swift and Objective-C) with hands-on research experience in AI/ML, gained as a student research assistant (HiWi) at Leibniz University Hannover, spanning federated learning, LLM evaluation, bias profiling, and entity resolution.
 
