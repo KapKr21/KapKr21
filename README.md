@@ -1,6 +1,6 @@
 ### Hi, I'm Kapil
 
-Technical Lead cum Senior iOS Developer (Swift) with hands-on research experience in AI/ML, gained as a student research assistant (Hiwi) at Leibniz University Hannover, spanning federated learning, LLM evaluation, bias profiling, and entity resolution.
+Technical Lead cum Senior iOS Developer (Swift and Objective-C) with hands-on research experience in AI/ML, gained as a student research assistant (Hiwi) at Leibniz University Hannover, spanning federated learning, LLM evaluation, bias profiling, and entity resolution.
 
 - Currently working on ML research projects (LLMs, federated learning, NLP evaluation) alongside native iOS development
 - Comfortable moving between Swift/iOS and Python/PyTorch/Hugging Face stacks
