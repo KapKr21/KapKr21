@@ -31,7 +31,7 @@ Benchmarking blocking, similarity-join, and nearest-neighbor filtering methods f
 Collection of Swift/iOS apps and patterns, including location detection & mapping, geofencing, gesture recognition, Core Data, push/local notifications, protocols & delegates, and REST API integration.
 
 **[Objective-C](https://github.com/KapKr21/Objective-C)**
-Collection of Objective-C iOS apps covering core UIKit patterns — calculators, REST APIs, life-cycle handling, and interactive UI demos.
+Collection of Objective-C iOS apps covering core UIKit pattern: calculators, REST APIs, life-cycle handling, and interactive UI demos.
 
 **[TaskByMobiotics](https://github.com/KapKr21/TaskByMobiotics)**
 AVPlayer-based streaming app built for a client task assignment.
